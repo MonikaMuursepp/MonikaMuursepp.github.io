@@ -66,3 +66,48 @@ h1 {
 }
 
 /* Introduction Section */
+.introduction {
+	background-color: white;
+	max-width: 1200px;
+	margin-left: 50px;
+}
+
+/*Portfolio Section*/
+.cards {
+	background-color: #ffc200;
+	display: flex;
+	justify-content:space-around;
+	flex-wrap: wrap;
+}
+
+.col {
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#portfolio-heading {
+	padding: 20px;
+	background-color: #ffc200;
+	margin: 0px;
+	text-align: center;
+}
+
+/* Footer section */
+.footer {
+	padding: 60px 0px;
+	background-color: #000;
+	color: #fff;
+}
+
+.footer h3 {
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.footer p {
+	font-size: 12px;
+	margin-bottom: 0;
+	margin-left: 20px;
+}
+
