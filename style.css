@@ -58,20 +58,23 @@ h1 {
 	background-color: white;
 	max-width: 1200px;
 	margin-left: 50px;
-	height: 500px;
+	height: 550px;
 }
 
 .slogan h2 {
 	font-size: 34px;
 	margin-bottom: 70px;
+	position: relative;
+	top: 400px;
 }
 
 /* Introduction Section */
 .introduction {
 	background-color: white;
 	max-width: 1200px;
+	min-width: 400px;
 	margin-left: 50px;
-	height: 300px;
+	height: 400px;
 }
 
 /*Portfolio Section*/
