@@ -1,0 +1,67 @@
+/* General */
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: Geneva;
+}
+
+img {
+	margin: 10px auto;
+	height: auto;
+	width: auto;
+}
+
+ul {
+	text-align: right;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+/* Sizing Section*/
+.container {
+	margin: 0 auto;
+}
+
+.spacer {
+	max-width: 1200px;
+	margin: auto;
+}
+
+.main {
+	background-color: yellow;
+}
+
+/* Header Section*/
+.header {
+	padding: 30px 0px 40px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.header li {
+	list-style: none;
+	display: inline-block;
+}
+
+.header li a {
+	color: black;
+	margin: o;
+	border: 1px solid black;
+	border-radius: 40%;
+}
+
+/* Slogan Section*/
+.slogan {
+	background-color: white;
+	max-width: 1200px;
+	margin-left: 50px;
+}
+
+.slogan h2 {
+	font-size: 34px;
+	margin-bottom: 70px;
+}
+
+/* Introduction Section */
