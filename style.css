@@ -58,6 +58,7 @@ h1 {
 	background-color: white;
 	max-width: 1200px;
 	margin-left: 50px;
+	height: 500px;
 }
 
 .slogan h2 {
@@ -70,6 +71,7 @@ h1 {
 	background-color: white;
 	max-width: 1200px;
 	margin-left: 50px;
+	height: 300px;
 }
 
 /*Portfolio Section*/
