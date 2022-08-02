@@ -30,7 +30,7 @@ h1 {
 }
 
 .main {
-	background-color: yellow;
+	background-color: #bfb9b3;
 }
 
 /* Header Section*/
@@ -74,7 +74,7 @@ h1 {
 
 /*Portfolio Section*/
 .cards {
-	background-color: #ffc200;
+	background-color: #bfb9b3;
 	display: flex;
 	justify-content:space-around;
 	flex-wrap: wrap;
@@ -88,7 +88,7 @@ h1 {
 
 #portfolio-heading {
 	padding: 20px;
-	background-color: #ffc200;
+	background-color: #bfb9b3;
 	margin: 0px;
 	text-align: center;
 }
