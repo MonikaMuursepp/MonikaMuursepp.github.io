@@ -76,6 +76,15 @@ h1 {
 	margin-left: 50px;
 	margin-bottom: 100px;
 	height: 450px;
+	display: flex;
+	align-items: center;
+}
+
+
+
+.introduction
+.portrait {
+	display: inline-block;
 }
 
 /*Portfolio Section*/
