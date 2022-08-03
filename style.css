@@ -120,7 +120,9 @@ h1 {
 #portfolio-heading {
 	padding: 20px;
 	background-color: #bfb9b3;
-	margin: 0px;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 30px;
 	text-align: center;
 }
 
