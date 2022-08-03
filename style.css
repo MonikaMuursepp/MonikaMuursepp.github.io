@@ -135,6 +135,7 @@ h1 {
 .introduction-text {
 	text-align: justify;
 	max-width: 600px;
+	padding-top: 200px;
 	float: right;
 }
 
