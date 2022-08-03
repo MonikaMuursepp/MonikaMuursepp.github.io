@@ -103,6 +103,7 @@ h1 {
 	transition: 0.5s ease;
 	float: left;
 	text-align: left;
+	display: block;
 }
 
 .menu li a:hover {
@@ -118,7 +119,7 @@ h1 {
 	margin-right: 80px;
 	margin-bottom: 100px;
 	height: 450px;
-	display: inline;
+	display: block;
 }
 
 .introduction-text {
@@ -147,7 +148,7 @@ h1 {
 	color: #fff;
 	text-transform: uppercase;
 	text-align: center;
-	display: inline;
+	display: block;
 }
 
 /* Footer section */
