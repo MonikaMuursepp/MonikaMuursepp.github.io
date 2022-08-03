@@ -102,24 +102,16 @@ h1 {
 	transition: 0.5s linear;
 	float: left;
 	text-align: left;
+	flex-direction: column;
 }
 
 .menu li a:hover {
 	border-bottom: 4px solid #000;
 }
 
-#menu-introduction {
-	display: block;
+.menu-ul {
+	display: flex;
 }
-
-#menu-portfolio {
-	display: block;
-}
-
-#menu-contact {
-	display: block;
-}
-
 
 /* Introduction Section */
 .introduction {
