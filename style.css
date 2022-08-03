@@ -123,27 +123,9 @@ h1 {
 	color: #fff;
 }
 
-.footer h3 {
-	font-size: 20px;
-	margin-left: 20px;
-}
-
-.footer p {
-	font-size: 12px;
-	margin-bottom: 0;
-	margin-left: 20px;
-}
-
-
-/* contact.html section*/
-.contact {
-	background-color: #fff;
-	max-width: 1200px;
-	margin-left: 50px;
-}
-
 .contact h2 {
 	font-size: 30px;
+}
 
 .contact h4 {
 	font-size: 20px;
