@@ -70,7 +70,7 @@ h1 {
 	font-style: italic;
 	margin-bottom: 100px;
 	position: relative;
-	top: 150px;
+	top: 250px;
 }
 
 /* Menu Section */
@@ -84,8 +84,6 @@ h1 {
 
 .menu li {
 	list-style: none;
-	display: inline;
-	align-content: left;
 }
 
 .menu li a {
@@ -105,7 +103,7 @@ h1 {
 	background-color: white;
 	max-width: 600px;
 	margin-left: 50px;
-	margin-right: 50px;
+	margin-right: 80px;
 	margin-bottom: 100px;
 	height: 450px;
 	float: right;
@@ -130,12 +128,12 @@ h1 {
 }
 
 #portfolio-heading {
-	padding: 20px;
+	padding: 40px;
 	background-color: #bfb9b3;
 	color: #fff;
 	text-transform: uppercase;
-	margin: 30px;
 	text-align: center;
+	display: inline;
 }
 
 /* Footer section */
