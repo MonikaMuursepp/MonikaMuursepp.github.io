@@ -79,6 +79,7 @@ h1 {
 	margin-left: 60px;
 	margin-right: 60px;
 	height: 600px;
+	align-content: center;
 }
 
 .menu h2 {
@@ -91,6 +92,7 @@ h1 {
 
 .menu li {
 	list-style: none;
+	flex-direction: column;
 }
 
 .menu li a {
@@ -101,7 +103,6 @@ h1 {
 	transition: 0.3s linear;
 	float: left;
 	text-align: left;
-	flex-direction: column;
 }
 
 .menu li a:hover {
