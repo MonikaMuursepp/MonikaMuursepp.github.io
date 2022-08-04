@@ -100,7 +100,7 @@ h1 {
 	font-size: 50px;
 	text-decoration: none;
 	text-transform: uppercase;
-	transition: 0.5s linear;
+	transition: 0.3s linear;
 	float: left;
 	text-align: left;
 	flex-direction: column;
@@ -112,6 +112,8 @@ h1 {
 
 .menu-ul {
 	display: flex;
+	padding-top: 150px;
+	line-height: 2;
 }
 
 /* Introduction Section */
